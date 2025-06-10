@@ -2,8 +2,7 @@
 
 # Build source:
 ```
-    1. go mod init github.com/thienhi/fusionstart
-    2. go mod tidy
+    1. docker compose -f compose.yaml up --build
 ```
 
 
@@ -12,5 +11,3 @@
 ***App*** contains file main
 
 ***Internal*** 
-
-
